@@ -5,7 +5,7 @@ Hi, I'm Peter Adedayo Oketade
 
 - 👀 I’m interested in ... Linux, embedded System and C##
 - 🌱 I’m currently learning Phyton, linux and AI
-- My email address is oketdepeteradedayo@gmail.com
+- My email address is oketadepeteradedayo@gmail.com
 - ### There is some infomation about my school
 - https://lab.fi/fi
 - 📫 How to reach me 044 938 8504
